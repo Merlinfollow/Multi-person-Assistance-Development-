@@ -1,0 +1,22 @@
+
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: antiquewhite;
+    margin: 450px auto;
+    line-height: 200px;
+    text-align: center;
+    font-size: 25px;
+    color: blueviolet;
+}
+p{
+    width: 200px;
+    height: 200px;
+    background-color: greenyellow;
+    margin: 200px auto;
+    border: 1px solid #000;
+    font-size: 25px;
+    line-height: 200px;
+    text-align: center;
+    color: blue;
+}
